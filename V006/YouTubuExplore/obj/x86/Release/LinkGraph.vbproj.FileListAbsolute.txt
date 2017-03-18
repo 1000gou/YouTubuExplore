@@ -1,0 +1,15 @@
+C:\Users\gouichi\Documents\Visual Studio 2010\Projects\LinkGraph\LinkGraph\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\gouichi\Documents\Visual Studio 2010\Projects\LinkGraph\LinkGraph\obj\x86\Release\LinkGraph.バージョン情報フォーム.resources
+C:\Users\gouichi\Documents\Visual Studio 2010\Projects\LinkGraph\LinkGraph\obj\x86\Release\LinkGraph.ブラウザーフォーム.resources
+C:\Users\gouichi\Documents\Visual Studio 2010\Projects\LinkGraph\LinkGraph\obj\x86\Release\LinkGraph.ヘルプフォーム.resources
+C:\Users\gouichi\Documents\Visual Studio 2010\Projects\LinkGraph\LinkGraph\obj\x86\Release\LinkGraph.メインフォーム.resources
+C:\Users\gouichi\Documents\Visual Studio 2010\Projects\LinkGraph\LinkGraph\obj\x86\Release\LinkGraph.Resources.resources
+C:\Users\gouichi\Documents\Visual Studio 2010\Projects\LinkGraph\LinkGraph\obj\x86\Release\LinkGraph.操作盤.resources
+C:\Users\gouichi\Documents\Visual Studio 2010\Projects\LinkGraph\LinkGraph\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\gouichi\Documents\Visual Studio 2010\Projects\LinkGraph\LinkGraph\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\gouichi\Documents\Visual Studio 2010\Projects\LinkGraph\LinkGraph\bin\Release\YouTubeExplorer_v005.exe
+C:\Users\gouichi\Documents\Visual Studio 2010\Projects\LinkGraph\LinkGraph\bin\Release\YouTubeExplorer_v005.pdb
+C:\Users\gouichi\Documents\Visual Studio 2010\Projects\LinkGraph\LinkGraph\bin\Release\YouTubeExplorer_v005.xml
+C:\Users\gouichi\Documents\Visual Studio 2010\Projects\LinkGraph\LinkGraph\obj\x86\Release\YouTubeExplorer_v005.exe
+C:\Users\gouichi\Documents\Visual Studio 2010\Projects\LinkGraph\LinkGraph\obj\x86\Release\YouTubeExplorer_v005.xml
+C:\Users\gouichi\Documents\Visual Studio 2010\Projects\LinkGraph\LinkGraph\obj\x86\Release\YouTubeExplorer_v005.pdb

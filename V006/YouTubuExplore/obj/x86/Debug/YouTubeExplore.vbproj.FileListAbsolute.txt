@@ -1,0 +1,31 @@
+C:\Users\Goichi_2\Documents\Visual Studio 2015\Projects\01_LinkGraph\YouTubuExplore\obj\x86\Debug\YouTubeExplorer_v006.exe
+C:\Users\Goichi_2\Documents\Visual Studio 2015\Projects\01_LinkGraph\YouTubuExplore\obj\x86\Debug\YouTubeExplorer_v006.xml
+C:\Users\Goichi_2\Documents\Visual Studio 2015\Projects\01_LinkGraph\YouTubuExplore\obj\x86\Debug\YouTubeExplorer_v006.pdb
+C:\Users\Goichi_2\Documents\Visual Studio 2015\Projects\01_LinkGraph\YouTubuExplore\bin\Debug\YouTubeExplorer_v006.exe
+C:\Users\Goichi_2\Documents\Visual Studio 2015\Projects\01_LinkGraph\YouTubuExplore\bin\Debug\YouTubeExplorer_v006.pdb
+C:\Users\Goichi_2\Documents\Visual Studio 2015\Projects\01_LinkGraph\YouTubuExplore\bin\Debug\YouTubeExplorer_v006.xml
+C:\Users\Goichi_2\Documents\Visual Studio 2015\Projects\01_LinkGraph\YouTubuExplore\obj\x86\Debug\YouTubeExplore.vbprojResolveAssemblyReference.cache
+C:\Users\Goichi_2\Documents\Visual Studio 2015\Projects\01_LinkGraph\YouTubuExplore\obj\x86\Debug\LinkGraph.バージョン情報フォーム.resources
+C:\Users\Goichi_2\Documents\Visual Studio 2015\Projects\01_LinkGraph\YouTubuExplore\obj\x86\Debug\LinkGraph.ブラウザーフォーム.resources
+C:\Users\Goichi_2\Documents\Visual Studio 2015\Projects\01_LinkGraph\YouTubuExplore\obj\x86\Debug\LinkGraph.ヘルプフォーム.resources
+C:\Users\Goichi_2\Documents\Visual Studio 2015\Projects\01_LinkGraph\YouTubuExplore\obj\x86\Debug\LinkGraph.メインフォーム.resources
+C:\Users\Goichi_2\Documents\Visual Studio 2015\Projects\01_LinkGraph\YouTubuExplore\obj\x86\Debug\LinkGraph.Resources.resources
+C:\Users\Goichi_2\Documents\Visual Studio 2015\Projects\01_LinkGraph\YouTubuExplore\obj\x86\Debug\LinkGraph.操作盤.resources
+C:\Users\Goichi_2\Documents\Visual Studio 2015\Projects\01_LinkGraph\YouTubuExplore\obj\x86\Debug\YouTubeExplore.vbproj.GenerateResource.Cache
+C:\Users\Goichi_2\Documents\Visual Studio 2015\Projects\01_YouTubuExplore\YouTubuExplore\obj\x86\Debug\YouTubeExplorer_v006.exe
+C:\Users\Goichi_2\Documents\Visual Studio 2015\Projects\01_YouTubuExplore\YouTubuExplore\obj\x86\Debug\YouTubeExplorer_v006.xml
+C:\Users\Goichi_2\Documents\Visual Studio 2015\Projects\01_YouTubuExplore\YouTubuExplore\obj\x86\Debug\YouTubeExplorer_v006.pdb
+C:\Users\Goichi_2\Documents\GitHub\YouTubuExplore\YouTubuExplore\bin\Debug\YouTubeExplorer_v006.exe
+C:\Users\Goichi_2\Documents\GitHub\YouTubuExplore\YouTubuExplore\bin\Debug\YouTubeExplorer_v006.pdb
+C:\Users\Goichi_2\Documents\GitHub\YouTubuExplore\YouTubuExplore\bin\Debug\YouTubeExplorer_v006.xml
+C:\Users\Goichi_2\Documents\GitHub\YouTubuExplore\YouTubuExplore\obj\x86\Debug\YouTubeExplore.vbprojResolveAssemblyReference.cache
+C:\Users\Goichi_2\Documents\GitHub\YouTubuExplore\YouTubuExplore\obj\x86\Debug\LinkGraph.バージョン情報フォーム.resources
+C:\Users\Goichi_2\Documents\GitHub\YouTubuExplore\YouTubuExplore\obj\x86\Debug\LinkGraph.ブラウザーフォーム.resources
+C:\Users\Goichi_2\Documents\GitHub\YouTubuExplore\YouTubuExplore\obj\x86\Debug\LinkGraph.ヘルプフォーム.resources
+C:\Users\Goichi_2\Documents\GitHub\YouTubuExplore\YouTubuExplore\obj\x86\Debug\LinkGraph.メインフォーム.resources
+C:\Users\Goichi_2\Documents\GitHub\YouTubuExplore\YouTubuExplore\obj\x86\Debug\LinkGraph.Resources.resources
+C:\Users\Goichi_2\Documents\GitHub\YouTubuExplore\YouTubuExplore\obj\x86\Debug\LinkGraph.操作盤.resources
+C:\Users\Goichi_2\Documents\GitHub\YouTubuExplore\YouTubuExplore\obj\x86\Debug\YouTubeExplore.vbproj.GenerateResource.Cache
+C:\Users\Goichi_2\Documents\GitHub\YouTubuExplore\YouTubuExplore\obj\x86\Debug\YouTubeExplorer_v006.exe
+C:\Users\Goichi_2\Documents\GitHub\YouTubuExplore\YouTubuExplore\obj\x86\Debug\YouTubeExplorer_v006.xml
+C:\Users\Goichi_2\Documents\GitHub\YouTubuExplore\YouTubuExplore\obj\x86\Debug\YouTubeExplorer_v006.pdb
